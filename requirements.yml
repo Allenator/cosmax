@@ -1,0 +1,16 @@
+name: cosmax
+channels:
+  - pytorch
+  - nvidia
+  - plotly
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pytorch
+  - pytorch-cuda
+  - python=3.11
+  - torchvision
